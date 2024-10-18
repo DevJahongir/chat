@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262880198575",
+    "project_id": "chatapptute-bbb67",
+    "storage_bucket": "chatapptute-bbb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262880198575:android:b72c5a0ab597ae5f1af95a",
+        "android_client_info": {
+          "package_name": "com.nextgen.chat_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDkIJbxif-5hRqsoX5AI-GIi2ywzt9ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
